@@ -4,7 +4,7 @@ This repository holds the raw partisan topic data and cleaned code used in the E
 For the BASIL dataset see: https://github.com/launchnlp/BASIL
 
 ## Contents
-* \*.pkl: news articles for each topic
+* data/\*.pkl: news articles for each topic
 * inductive_pipeline.py  and inductive_pipeline_basil.py: pipeline for experimenting across embedding configurations 
 * Document-level Bias by LLM.ipynb: notebook for LLM bias detection
 * newsnet_utils.py: functions for cleaning up the data
